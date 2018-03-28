@@ -12,7 +12,7 @@ export default class Home extends Component {
                 <div className="mainDiv">
 
                     <img src={logo} className="App-logo" alt="logo" />
-                    <h1>Welcome to React Fundamentals at Eleven Fifty</h1>
+                    <h1>WELCOME TO REACT FUNDAMENTALS AT ELEVEN FIFTY</h1>
 
                     <p>This app is intended to be a starter/tutorial app for your upcoming project and a learning sandbox
                         for you in months and years to come should you continue to develop software with React.

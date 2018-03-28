@@ -15,8 +15,13 @@ const Sidebar = () => (
         <li><Link to="/">Home</Link></li>
         <li><Link to="/rationale">Rationale</Link></li>
         <li><Link to="/functionalcomponent">Functional Component</Link></li>
+        <li><Link to="/JSXRules">JSX Rules</Link></li>
+        <li><Link to="/classcomponent">Class Components</Link></li>
+        <li><Link to="/propsdemo">Props Demo</Link></li>
+        <li><Link to="/lifecyclecodepen">Life Cycle Codepen</Link></li>
+        <li><Link to="/timer">Timers</Link></li>
+        <li><Link to="/reactconceptlist">React Concepts Checklist</Link></li>
         <li><Link to="/resources">Resources</Link></li>
-
       </ul>
     </div>
     <div className="sidebar-route">
