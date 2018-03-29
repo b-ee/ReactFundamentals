@@ -21,6 +21,9 @@ const Sidebar = () => (
         <li><Link to="/lifecyclecodepen">Life Cycle Codepen</Link></li>
         <li><Link to="/timer">Timers</Link></li>
         <li><Link to="/reactconceptlist">React Concepts Checklist</Link></li>
+        <li><Link to="/nytapp">NYT App</Link></li>
+        <li><Link to="/friendlist">Friend List App</Link></li>
+        <li><Link to="/movie">Movie Search App</Link></li>
         <li><Link to="/resources">Resources</Link></li>
       </ul>
     </div>
